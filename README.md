@@ -1,2 +1,2 @@
 # edge_score
-a R short tool to determine coordinate consistency
+a R short function to determine coordinate consistency
